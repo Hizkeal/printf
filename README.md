@@ -14,5 +14,5 @@ The printf function sends formatted output to stdout.
 
 ### Authors &copy;
 
-- Mikiyas Dawit
-- Hizkeal Yeshitila
+- Mikiyas Dawit(MAYSHLMAY)
+- Hizkeal Yeshitila(HIZKEAL)
